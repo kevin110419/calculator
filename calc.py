@@ -24,3 +24,7 @@ def div(a, b):
         return 0
     else:
         return a / b
+
+# **3
+def cube(a):
+    return a**3
